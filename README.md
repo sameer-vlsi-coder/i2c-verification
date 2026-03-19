@@ -1,4 +1,4 @@
-# 🚀 I2C Memory Verification using Verilog, SystemVerilog, and UVM
+# 🚀 UVM-Based Verification of Memory Interface
 
 
 ## 📌 Project Overview
