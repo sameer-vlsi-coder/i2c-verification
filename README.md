@@ -2,7 +2,7 @@
 
 
 ## 📌 Project Overview
-This project verifies an **I2C-based memory module** using **Verilog** for RTL and a **SystemVerilog UVM-based verification environment**.    
+This project verifies an **Memory Interface** using **Verilog** for RTL and a **SystemVerilog UVM-based verification environment**.    
 The verification focuses on validating **memory write and read functionality**, ensuring correct data storage and retrieval based on address and control signals.
 
 Verification completeness is ensured using:
